@@ -16,7 +16,7 @@ Getting Started
 
 
 Clone the repository:
-bash Copy Comment Downloadgit clone https://github.com/your-username/telegram-link-remover-bot.git
+bash Copy Comment Download git clone https://github.com/kimaiy0/yuop.git
 cd telegram-link-remover-bot
 
 
